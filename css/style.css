@@ -1,0 +1,10 @@
+/* Background at the body page */
+body{
+	background-color: #2b7a9d;
+}
+/* Color, size and text position for the first paragraph */
+.text{
+	color: #23ccb2; /*Color text*/
+	font-size: 3em;
+	text-align: center; /*Position text*/
+}
